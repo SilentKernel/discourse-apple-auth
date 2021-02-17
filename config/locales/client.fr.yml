@@ -1,1 +1,7 @@
-
+fr:
+  js:
+    login:
+      apple:
+        name: "Apple"
+        title: "avec Apple"
+        message: "Connexion avec Apple"
